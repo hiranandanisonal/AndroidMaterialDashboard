@@ -1,3 +1,3 @@
 # AndroidMaterialDashboard
 using CardView
-![Alt text](Images_Readme/Screenshot_20171128-014653.png?raw=true "Android Material Dashboard")
+![Alt text](https://github.com/hiranandanisonal/Images_Readme/blob/master/Screenshot_20171128-014653.png "Optional title")
