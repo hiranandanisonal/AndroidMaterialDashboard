@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AndroidMaterialDashboard</string>
+    <string name="python">Python</string>
+    <string name="python1">Trending </string>
+
+    <string name="java">Java</string>
+    <string name="java1">Robust</string>
+
+    <string name="cpp">C++</string>
+    <string name="cpp1">Handy</string>
+
+    <string name="Csharp">C#</string>
+    <string name="Csharp1">Game Dev</string>
+
+    <string name="js">JS</string>
+    <string name="js1">Web tech</string>
+
+
+
+
+</resources>
